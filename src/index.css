@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  margin: 20px;
+  background: #f4f4f4;
+}
+.character {
+  position: relative;
+}
+.equipment-ui {
+  position: absolute;
+  top: 100px;
+  left: 110px;
+}
+.weapon-icon {
+  width: 40px;
+}
